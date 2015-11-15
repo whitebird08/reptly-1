@@ -1,7 +1,7 @@
- body { 
+#homepage { 
 
- background: url( http://www.animalhi.com/download/view?resolution=1920x1080&file=MTkyMHgxMDgwLzIwMTIxMDI3L3JlcHRpbGVzIGlndWFuYSAxOTIweDEwODAgd2FsbHBhcGVyX3d3dy5hbmltYWxoaS5jb21fNDQuanBn&name=cmVwdGlsZXNfaWd1YW5hXzE5MjB4MTA4MF93YWxscGFwZXI=);
-  background-size: cover;
+ /*background: url( http://www.animalhi.com/download/view?resolution=1920x1080&file=MTkyMHgxMDgwLzIwMTIxMDI3L3JlcHRpbGVzIGlndWFuYSAxOTIweDEwODAgd2FsbHBhcGVyX3d3dy5hbmltYWxoaS5jb21fNDQuanBn&name=cmVwdGlsZXNfaWd1YW5hXzE5MjB4MTA4MF93YWxscGFwZXI=);*/
+  /*background-size: cover;*/
 }
 .jumbotron {
   opacity: .5;
